@@ -18,7 +18,7 @@
     "codemirror": "^5.26.0",
     "exif-js": "^2.3.0",
     "little-loader": "^0.2.0",
-    "pdfjs-dist": "^2.1.266",
+    "pdfjs-dist": "^4.2.67",
     "prop-types": "^15.5.10",
     "react": "^16.5.0",
     "react-addons-css-transition-group": "^15.6.2",
